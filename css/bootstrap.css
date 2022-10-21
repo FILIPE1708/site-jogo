@@ -10877,4 +10877,11 @@ textarea.form-control-lg {
   }
 }
 
+@media screen and (max-width: 768px){
+  #video {
+    width: 320px;
+    height: 240px;
+  }
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
